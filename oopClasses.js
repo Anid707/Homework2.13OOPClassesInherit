@@ -38,7 +38,7 @@ console.log(calc.mul());
 // Реализовать следующее мини-приложение
 // https://gist.github.com/zhekix
 
-window.location.href("/index1.html");
+// window.location.href("/index1.html");
 
 
 // Задание 4
